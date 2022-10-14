@@ -9,7 +9,8 @@
             // uc2_employee.ToCheckCalWage();
             //uc3_employee.ToCalculateEmpWage();
             // uc4_employee.ToCalculateEmpWage();
-            uc5_employee.EmployeeWage();
+           // uc5_employee.EmployeeWage();
+           uc6_employee.TotalEmpWage();
         }
     }
 }
