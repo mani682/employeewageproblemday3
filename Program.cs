@@ -6,7 +6,8 @@
         {
             Console.WriteLine("Welcome to Employee Wage Computataion Problem");
             //uc1_employee.ToCheckEmpAttendenc
-            uc2_employee.ToCheckCalWage();
+            // uc2_employee.ToCheckCalWage();
+            uc3_employee.ToCalculateEmpWage();
         }
     }
 }
